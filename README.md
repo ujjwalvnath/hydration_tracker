@@ -22,14 +22,14 @@ npm install bootstrap
 npm run serve
 ```
 
-###📦 Features
+### 📦 Features
 Create and manage hydration plans
 
 RESTful API
 
 Simple UI for tracking plans
 
-###🛠 Tech Stack
+### 🛠 Tech Stack
 Frontend: Vue.js
 
 Backend: Flask + SQLAlchemy
